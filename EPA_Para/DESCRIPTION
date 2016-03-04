@@ -1,0 +1,10 @@
+Package: EPANonPara
+Type: Package
+Title: NonParametric EPA Tests.
+Version: 1.0
+Date: 2015-04-08
+Author: Li, Xuan; Maloney, Maura; Zhang, Ya
+Maintainer: Who to complain to <mam479@pitt.edu>
+Description: Contains non-parametric tests (Slippage, Quantile, Gehan) required by EPA for comparing chemical concentrations at Naval facilities to naturally occurring levels in nearby areas.
+License: University of Pittsburgh
+LazaData: True
